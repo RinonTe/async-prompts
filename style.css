@@ -31,4 +31,9 @@
 
 .popup.open fieldset {
 	--scale: 1;
+	margin-top: -28rem;
+}
+
+input[type="text"] {
+    margin-bottom: 2rem;
 }
